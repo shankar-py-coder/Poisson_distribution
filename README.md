@@ -77,7 +77,7 @@ else:
 
 # Output : 
 
-![image alt](
+![image alt](https://github.com/shankar-py-coder/Poisson_distribution/blob/main/Screenshot%202026-03-14%20182102.png?raw=true)
 
 # Results
 
